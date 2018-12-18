@@ -1,0 +1,2 @@
+- [ ] Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks
+- [ ] SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels

@@ -5,5 +5,6 @@
 - [ ] An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
 - [ ] Revisit rcnn: On awakening the classification power of faster rcnn
 - [ ] Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach
+- [ ] Context Encoding for Semantic Segmentation
 
 ## 数据集
