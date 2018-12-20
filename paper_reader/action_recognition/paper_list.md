@@ -1,0 +1,2 @@
+- [ ] Action Recognition: a new model and kinetics dataset
+- [ ] Two-Stream convolutional networks for action recognition in video

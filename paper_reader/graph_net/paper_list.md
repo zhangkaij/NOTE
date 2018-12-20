@@ -1,0 +1,1 @@
+- [ ] Relational inductive biases, deep learning, and graph networks [Github](https://github.com/deepmind/graph_nets)
