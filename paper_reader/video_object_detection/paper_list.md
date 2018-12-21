@@ -1,3 +1,5 @@
 - [ ] SlowFast Networks for Video Recognition
 - [ ] Long-Term Feature Banks for Detailed Video Understanding
 - [ ] Distractor-aware Siamese Networks for Visual Object Tracking
+- [ ] Temporally Identity-Aware SSD with Attentional LSTM [Quora](https://www.quora.com/unanswered/Can-you-use-an-LSTM-and-CNN-for-video-object-detection-to-get-better-results)
+- [ ]
