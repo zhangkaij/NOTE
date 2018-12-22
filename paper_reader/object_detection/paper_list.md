@@ -11,6 +11,7 @@
 - [ ] Rethinking ImageNet Pre-training Kai-Ming He
 - [ ] Exploring the limits of weakly supervised pretraining ECCV 2018
 - [ ] Revisit unreasonable effectiveness of data in deep learning era ICCV 2017
+- [ ] LSTM-based Encoder-Decoder for **Multi-sensor** Anomaly Detection
 
 ## Initialization
 - [ ] Understanding the difficulty of training deep feedforward neural Networks AISTATS 2010
