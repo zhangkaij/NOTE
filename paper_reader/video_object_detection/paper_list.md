@@ -5,9 +5,11 @@
 - [ ] Integrated Object Detection and Tracking with Tracklet-Conditioned Detection
 - [ ] SlowFast Networks for Video Recognition
 - [ ] Long-Term Feature Banks for Detailed Video Understanding
+- [ ] Mobile Video Object Detection with Temporally-Aware Feature Maps. CVPR 2018
 
 - [ ] Object Detection from Video Tublets with Convolutional Neural Networks. CVPR 2016
 - [ ] Object Detection in Videos with Tublet Proposal Networks. CVPR 2017
+
 
 ### RNN
 - [ ] Online Video Object Detection using Association LSTM. ICCV 2017
