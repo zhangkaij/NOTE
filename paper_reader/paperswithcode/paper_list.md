@@ -1,0 +1,21 @@
+## 20190116 晚上
+- [ ] Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context
+- [ ] PyOD: A Python Toolbox for Scalable Outlier detection
+- [ ] ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks
+- [ ] Dataset Distillation
+- [ ] Object Detection with Pixel intensity comparisons organized in decision trees
+- [ ] EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning
+- [ ] Neural Ordinary Differential Equations
+- [ ] LanczosNet: Multi-Scale deep graph convolutional Networks
+- [ ] BERT: pre-training of deep bidirectional transformers for language understanding
+- [ ] Tencent ML-Images: a large-scale multi-label image database for visual representation learning
+- [ ] End-to-end continuous speech recognition using attention-based recurrent NN: First Results
+- [ ] EANet: Enhancing alignment for cross-domain person re-identification
+- [ ] Speaker-Follower models for vision-and-language navigation
+- [ ] SGM: sequence generation model for multi-label classification
+- [ ] Anytime stereo image depth estimation on mobile devices
+- [ ] SplineCNN: Fast geometric deep learning with continuous B-Spline kernels
+- [ ] Flow: architecture and Benchmarking for reinforcement learning in traffic control
+- [ ] Consistent individualized feature attribution for tree ensembles
+- [ ] Neural Nearest neighbors Networks, NIPS 2018
+- [ ] Real-time rotation-invariant face detection with progressive calibration networks

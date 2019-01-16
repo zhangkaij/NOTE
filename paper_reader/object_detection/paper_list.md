@@ -12,6 +12,8 @@
 - [ ] Exploring the limits of weakly supervised pretraining ECCV 2018
 - [ ] Revisit unreasonable effectiveness of data in deep learning era ICCV 2017
 - [ ] LSTM-based Encoder-Decoder for **Multi-sensor** Anomaly Detection
+- [ ] soft-NMS
+- [ ] Seq-NMS
 
 ## Initialization
 - [ ] Understanding the difficulty of training deep feedforward neural Networks AISTATS 2010
@@ -27,3 +29,6 @@
 - [ ] MegDet: A large mini-batch object detector CVPR 2018
 
 ## 数据集
+
+D <- {}
+while B != empty do
