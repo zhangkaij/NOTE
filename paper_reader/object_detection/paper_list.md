@@ -14,6 +14,9 @@
 - [ ] LSTM-based Encoder-Decoder for **Multi-sensor** Anomaly Detection
 - [ ] soft-NMS
 - [ ] Seq-NMS
+- [ ] **Scale-Aware Trident Networks for Object Detection**
+- [ ] **Grid R-CNN**
+-
 
 ## Initialization
 - [ ] Understanding the difficulty of training deep feedforward neural Networks AISTATS 2010
@@ -29,6 +32,3 @@
 - [ ] MegDet: A large mini-batch object detector CVPR 2018
 
 ## 数据集
-
-D <- {}
-while B != empty do
