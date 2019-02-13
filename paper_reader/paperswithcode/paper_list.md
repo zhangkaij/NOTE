@@ -19,3 +19,8 @@
 - [ ] Consistent individualized feature attribution for tree ensembles
 - [ ] Neural Nearest neighbors Networks, NIPS 2018
 - [ ] Real-time rotation-invariant face detection with progressive calibration networks
+- [ ] Transformer-xl (attention is all you need的进阶版)
+- [ ] DenseFusion: 6D object pose estimation by iterative dense fusion
+- [ ] Visible thermal person re-identification via dual-constrained top-ranking
+- [ ] CVPR2018最佳论文 Taskonomy: Disentangling task transfer learning
+- [ ] CVPR2018最佳学生论文 Total Capture: a 3d deformation model for tracking faces, hands and bodies

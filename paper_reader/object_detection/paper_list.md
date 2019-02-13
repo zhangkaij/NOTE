@@ -16,7 +16,24 @@
 - [ ] Seq-NMS
 - [ ] **Scale-Aware Trident Networks for Object Detection**
 - [ ] **Grid R-CNN**
--
+- [ ] Dual attention network for scene segmentation
+- [ ] Fluid Annotation: An Exploratory machine learning-powered interface for faster image annotation
+- [ ] Guided anchor 自动学习anchor
+- [ ] **policy gradient**
+- [ ] GLUE排行榜上全面超越BERT的模型近日公布了 BERT曾经打破所有11项NLP的记录，可应用于广泛认为的NLP预训练模型得到了大量的关注。2018年底，微软提交了
+综合性多任务NLU模型，它在11项NLP认为中有9项超越了BERT, multi-task deep neural networks for natural language understanding
+- [ ] 旷世提出的语义分割算法 GCN (CVPR2017), DFN(CVPR2018), BiSeNet(ECCV2018)
+Large kernel matters--improve semantic segmentation by global convolutional network. CVPR2017
+Learning a discriminative feature network for semantic segmentation.
+Bisenet: Bilateral segmentation network for real-time semantic segmentation.
+
+
+
+
+
+
+
+
 
 ## Initialization
 - [ ] Understanding the difficulty of training deep feedforward neural Networks AISTATS 2010
