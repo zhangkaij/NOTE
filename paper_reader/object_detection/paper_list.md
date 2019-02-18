@@ -26,6 +26,19 @@
 Large kernel matters--improve semantic segmentation by global convolutional network. CVPR2017
 Learning a discriminative feature network for semantic segmentation.
 Bisenet: Bilateral segmentation network for real-time semantic segmentation.
+- [ ] 全景分割
+Panoptic segmentation. Kaiming He
+Panoptic Feature Pyramid Networks. Kaiming He
+
+- [ ] [基于双目视觉的自动驾驶技术](https://zhuanlan.zhihu.com/p/56236308)
+- [ ] [单目视觉深度估计测距的前生今世](https://zhuanlan.zhihu.com/p/56263560)
+- [ ] [传感器融合-数据篇](https://zhuanlan.zhihu.com/p/56314023)
+- [ ] [目标检测最新方向：推翻固有设置，不再一成不变Anchor](https://zhuanlan.zhihu.com/p/56228320) 腾讯感知组
+MetaAnchor: Learning to Detect Objects with Customized Anchors. NIPS 2018 不再是固定形状的anchor，多边形。
+- [ ] [ETH Zurich提出利用对抗策略，解决目标检测的域适配问题](https://zhuanlan.zhihu.com/p/38084255)
+Domain Adaptive Faster R-CNN for Object Detection in the wild
+
+
 
 
 
